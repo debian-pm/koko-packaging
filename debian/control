@@ -19,10 +19,10 @@ Build-Depends: baloo-kf5-dev,
                qtdeclarative5-dev,
                qtpositioning5-dev,
                wget
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kdeconnect-plasma.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kdeconnect-plasma.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/koko.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/koko.git
 
 Package: koko
 Architecture: any

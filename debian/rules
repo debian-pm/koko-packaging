@@ -22,7 +22,4 @@ override_dh_clean: geonames_undeploy
 override_dh_auto_configure: geonames_deploy
 	$(overridden_command)
 
-override_dh_strip:
-	$(overridden_command) --dbg-package=koko-dbg
-
 .PHONY: geonames_deploy geonames_undeploy override_dh_clean override_dh_auto_configure override_dh_auto_test

@@ -32,14 +32,3 @@ Depends: plasma-framework,
          ${shlibs:Depends}
 Description: KDE Image Gallery
  A KDE Image Gallery.
-
-Package: koko-dbg
-Section: debug
-Architecture: any
-Priority: extra
-Depends: koko (= ${binary:Version}), ${misc:Depends}
-Description: KDE Image Gallery - debug symbols
- A KDE Image Gallery.
- .
- This package contains debugging files used to investigate problems with
- the Qt Cryptographic Architecture libraries.

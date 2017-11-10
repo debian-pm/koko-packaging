@@ -28,6 +28,7 @@ Package: koko
 Architecture: any
 Depends: plasma-framework,
          qml-module-qtgraphicaleffects,
+         qml-module-org-kde-kirigami2,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: KDE Image Gallery

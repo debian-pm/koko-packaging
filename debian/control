@@ -30,6 +30,7 @@ Architecture: any
 Depends: plasma-framework,
          qml-module-qtgraphicaleffects,
          qml-module-org-kde-kirigami2,
+         qml-module-org-kde-purpose,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: KDE Image Gallery

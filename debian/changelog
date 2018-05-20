@@ -1,5 +1,6 @@
-koko (0.0+git20171201-1) UNRELEASED; urgency=medium
+koko (0.0+git20180504-1) UNRELEASED; urgency=medium
 
+  [ Harald Sitter ]
   * Initial release.
 
- -- Harald Sitter <sitter@kde.org>  Thu, 18 Dec 2014 11:04:27 +0100
+ -- Jonah Brüchert <jbb@kaidan.im>  Fri, 04 May 2018 19:36:33 +0000
